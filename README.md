@@ -1,1 +1,3 @@
-# git-repository-1
+# README for en gøy GIT
+
+## Med to overskrifter
